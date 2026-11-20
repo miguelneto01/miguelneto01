@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Miguel Neto 👋</h1>
 
 <p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</b><br>
-  Desenvolvedor focado em sistemas de gestão empresarial 💼
+  <b>Formando em Administração & estudante de Análise e Desenvolvimento de Sistemas (ADS)</b><br>
+  Entusiasta de tecnologia • Construindo soluções na Kompilo.Dev & MJ Soluções 💼
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
-- 💼 Construindo soluções em **MJ Soluções**
-- 🧩 Foco em **sistemas de gestão**: financeiro, controle de negócios e ERPs web
+- 🎓 Formando em **Administração** e cursando **Análise e Desenvolvimento de Sistemas (ADS)** — em construção 🚧
+- 💡 **Entusiasta de tecnologia**, unindo visão de negócio com desenvolvimento
+- 💼 Construindo soluções na **Kompilo.Dev** e na **MJ Soluções**
+- 🧩 Foco em **sistemas de gestão** para pequenos negócios
 - 🌱 Sempre aprendendo algo novo e colocando a mão no código todos os dias
-- 💬 Fale comigo sobre **desenvolvimento web** e **sistemas de gestão**
 
 ---
 
@@ -30,10 +30,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -53,12 +50,11 @@
 
 ## 📫 Contato
 
-<!-- Troque o "#" pelos seus links reais -->
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/miguelnetoficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miguel-neto-44192a323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><i>💡 Me aventurando diariamente no código!</i></p>
+<p align="center"><i>💡 Administração + tecnologia, evoluindo todos os dias 🚀</i></p>
